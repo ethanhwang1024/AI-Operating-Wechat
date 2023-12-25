@@ -7,7 +7,7 @@
     <a href=""><img src="https://img.shields.io/badge/os-windows-pink.svg"></a>
 </p>
 
-受够了别人的微信轰炸？使用AI来自动回复吧！
+微信消息太多回不过来？使用AI来自动回复微信！
 ## 👀 效果演示  
 
 https://github.com/ethanhwang1024/AI-Operating-Wechat/assets/89822193/3e62bd19-88e7-4dda-b98a-fdd22de0f1a0
@@ -45,7 +45,7 @@ AI-Operating-Wechat的开发受到[self-Operating-Computer](https://github.com/O
 
 ## 🚀 未来目标
 
-希望能聚集志同道合的朋友，一同加入AI-Operating-Anything生态，真正让大模型的Agent能力抵达生活的每一处！  
+希望能聚集志同道合的朋友，一同加入AI-Operating-Anything生态，真正让大模型的Agent能力抵达生活的每一处！QQ交流群二维码：   
 
 <div align="left">
 <img src="https://github.com/ethanhwang1024/AI-Operating-Wechat/assets/89822193/356a069b-416b-4a14-a576-dd7e93e56059"  width = "220" height = "260",caption='' />
