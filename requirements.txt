@@ -1,0 +1,4 @@
+dashscope==1.13.6
+PyAutoGUI==0.9.54
+pywin32==306
+uiautomation==2.0.18
