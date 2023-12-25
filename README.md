@@ -34,10 +34,12 @@ qwen_apikey = ""
 5. 打开电脑微信窗口，确保整个窗口可见，并将文件传输助手右键置顶  
    <img width="336" alt="1703510831355" src="https://github.com/ethanhwang1024/AI-Operating-Wechat/assets/89822193/40a3335e-4578-4ea5-a14e-45b7aed38d34">
   
-7. 运行   
+6. 运行   
 ```
 python main.py
 ```
+7. prompt可以在chat文件夹下的prompt.py文件里自己做一些定制
+
 
 ## 📣 致谢
 
